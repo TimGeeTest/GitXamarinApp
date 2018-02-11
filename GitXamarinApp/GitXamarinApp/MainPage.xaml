@@ -5,7 +5,7 @@
              x:Class="GitXamarinApp.MainPage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms! - Source in GitHub"
+            <Label Text="Welcome to Xamarin.Forms! - Source in GitHub (2)"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" FontSize="Large"  HorizontalTextAlignment="Center"/>
         </StackLayout>
