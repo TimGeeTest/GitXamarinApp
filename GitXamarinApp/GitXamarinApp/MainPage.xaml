@@ -7,7 +7,7 @@
         <StackLayout>
             <Label Text="Welcome to Xamarin.Forms! - Source in GitHub"
                 VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+                HorizontalOptions="CenterAndExpand" FontSize="Large"  HorizontalTextAlignment="Center"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
